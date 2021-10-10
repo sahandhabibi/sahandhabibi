@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sahandhabibi
 - 👀 I’m interested in DevOps concepts 
-- 🌱 I’m currently learning terraform 
 - 📫 Email : sahand.habibi1990@gmail.com
 
 <!---
